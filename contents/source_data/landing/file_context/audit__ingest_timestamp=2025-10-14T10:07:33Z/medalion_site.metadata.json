@@ -1,0 +1,73 @@
+{
+    "value": [
+        {
+            "createdDateTime": "2025-10-18T04:20:05Z",
+            "eTag": "\"{36679FCC-70D0-45A3-A240-C265C0169461},2\"",
+            "id": "01KHDSRYGMT5TTNUDQUNC2EQGCMXABNFDB",
+            "lastModifiedDateTime": "2025-10-18T04:20:08Z",
+            "name": "databricks_overview_by_ai.pptx",
+            "webUrl": "https://www.docswell.com/s/manabian/KPG31L-2025-10-08-131622",
+            "cTag": "\"c:{36679FCC-70D0-45A3-A240-C265C0169461},3\"",
+            "size": 36589,
+            "createdBy": {
+                "user": {
+                    "email": "medalion@xxx.jp",
+                    "id": "123adc93-885c-1234-8bdf-123456789011",
+                    "displayName": "medalion"
+                }
+            },
+            "lastModifiedBy": {
+                "user": {
+                    "email": "medalion@xxx.jp",
+                    "id": "123adc93-885c-1234-8bdf-123456789011",
+                    "displayName": "medalion"
+                }
+            },
+            "parentReference": {
+                "driveType": "documentLibrary",
+                "driveId": "b!n_ghWR3vWE29QbAbePZl6AM3b5ZMlMVCqh7vJOvjO9sZgByhgQkST7Ydj_dCppDm",
+                "id": "01KHDSRYA46S5OK3HGXZELE74NEJIO77IU",
+                "path": "/drive/root:/test/files",
+                "siteId": "5921f89f-ef1d-4d58-bd41-1231231235e8"
+            },
+            "file": {
+                "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "hashes": {
+                    "quickXorHash": "mzUwI4Z42FNIKMvPJvA50ptxfws="
+                }
+            },
+            "fileSystemInfo": {
+                "createdDateTime": "2025-10-18T04:20:05Z",
+                "lastModifiedDateTime": "2025-10-18T04:20:08Z"
+            },
+            "shared": {
+                "scope": "users"
+            }
+        },
+        {
+            "id": "01KHDSRYCL5IGHOORX65DLKNOAFYWFJI34",
+            "cTag": "\"c:{770CEA4B-373A-46F7-B535-C02E2C54A37C},4294967295\"",
+            "size": 0,
+            "parentReference": {
+                "driveType": "documentLibrary",
+                "driveId": "b!n_ghWR3vWE29QbAbePZl6AM3b5ZMlMVCqh7vJOvjO9sZgByhgQkST7Ydj_dCppDm",
+                "id": "01KHDSRYA46S5OK3HGXZELE74NEJIO77IU",
+                "siteId": "5921f89f-ef1d-4d58-bd41-1231231235e8"
+            },
+            "deleted": {
+                "state": "deleted"
+            },
+            "file": {
+                "hashes": {
+                    "quickXorHash": "AAAAAAAAAAAAAAAAAAAAAAAAAAA="
+                }
+            },
+            "fileSystemInfo": {},
+            "shared": {
+                "scope": "users"
+            }
+        }
+    ],
+    "file_dir": "abfss://unstureddata@medalion.dfs.core.windows.net/sharepoint/landing/raw_files/audit__ingest_timestamp=2025-10-14T10:07:33Z",
+    "sensitivity_label": "internal"
+}

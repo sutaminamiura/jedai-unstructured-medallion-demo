@@ -1,0 +1,15 @@
+command: [
+  "streamlit", 
+  "run",
+  "app.py"
+]
+
+env:
+  - name: STREAMLIT_BROWSER_GATHER_USAGE_STATS
+    value: "false"
+  - name: EMBEDDING_MODEL_ENDPOINT_NAME
+    value: "databricks-bge-large-en"
+  - name: INDEX_NAME
+    value: "unstructured_data_medalion_demo.schema_01.vectore_endpoint_index"
+  - name: MAX_RESULT
+    value: 5

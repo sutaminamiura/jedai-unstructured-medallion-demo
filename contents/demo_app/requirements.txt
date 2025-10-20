@@ -1,0 +1,9 @@
+mlflow>=2.21.2
+streamlit==1.44.1
+databricks-sdk
+langgraph==0.6.8
+langgraph-checkpoint==2.1.1
+langgraph-prebuilt==0.6.4
+langgraph-sdk==0.2.9
+databricks-langchain==0.8.1
+databricks-vectorsearch==0.60
